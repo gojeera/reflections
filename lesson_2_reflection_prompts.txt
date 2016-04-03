@@ -18,6 +18,7 @@ How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+	when merging to master, the the commits in the branch that we merge are now accessible to master. it represented in the diagram the way it is because it shows that branch still exist except it is now part of the master branch
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
