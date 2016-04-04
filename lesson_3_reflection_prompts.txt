@@ -2,4 +2,13 @@ When would you want to use a remote repository rather than keeping all your work
 	When you want to share your work with someone else or when you want to work on it when you're away.
 	
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
-	If you hadn't commited changes to the local repository, having Git automatically pull the data may save over your work
+	If you hadn't commited changes to the local repository, having Git automatically pull the data may save over your work.
+	
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+	-Forks
+		creating a repository off someone else's repository; you can edit and change files and commit to your repository without touching the original repository
+	-Clone
+		copying a repository from an external source (internet) to your local system
+	-Branches
+		commits that branch of a master branch, additions for same project that can then be added to the master
+	
