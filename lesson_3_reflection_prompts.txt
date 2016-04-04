@@ -12,3 +12,5 @@ Describe the differences between forks, clones, and branches. When would you use
 	-Branches
 		commits that branch of a master branch, additions for same project that can then be added to the master
 	
+What is the benefit of having a copy of the last known state of the remote stored locally?
+	So it's always up-to-date and changes are then made to the most up-to-date of the master.  Also, there less changes to be made if there is conflicting versions
