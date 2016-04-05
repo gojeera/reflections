@@ -10,10 +10,13 @@ Describe the differences between forks, clones, and branches. When would you use
 	-Clone
 		copying a repository from an external source (internet) to your local system
 	-Branches
-		commits that branch of a master branch, additions for same project that can then be added to the master
+		commits that branch off of a master branch, additions for same project that can then be added to the master
 	
 What is the benefit of having a copy of the last known state of the remote stored locally?
 	So it's always up-to-date and changes are then made to the most up-to-date of the master.  Also, there less changes to be made if there is conflicting versions.
 	
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 	Using something like Dropbox.
+	
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+	Creating a branch will allow the ability to work on a new feature without affecting the master.  If there are multiple people working on the same project but on different elements it gives them the chance to work at the same time, and not having to wait around till one person finishes their part.
